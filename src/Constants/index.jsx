@@ -14,7 +14,7 @@ import react from "../assets/old/react.png"
 import sass from "../assets/old/sass.png"
 import web from "../assets/old/web.png"
 import ux from "../assets/old/ux.png"
-
+import proj1 from "../assets/old/project1.png"
 const services = [
     {
         title : "Web Developer", 
@@ -93,37 +93,22 @@ const projects = [
     {
         name : "Go-Food",
         link : "https://github.com/SARIF-MALIK/GoFood-FullStack",
-        img : "../assets/old/project1.png",
+        source_code_link : "https://github.com/SARIF-MALIK/GoFood-FullStack",
+        img : {proj1},
         des : "this is full stack project using Mern"
     },
     {
         name : "Chat Bot using ChatGpt API",
         link : "https://github.com/SARIF-MALIK/Chatbot",
-        img : "../assets/old/project3.png",
+        source_code_link : "https://github.com/SARIF-MALIK/Chatbot",
+        img : {},
         des : "this is full stack project using Mern"
     },
     {
         name : "Chat app using Socket.io",
         link : "https://github.com/SARIF-MALIK/ChatApp",
-        img : "../assets/old/project5.png",
-        des : "this is full stack project using Mern"
-    },
-    {
-        name : "Crypto King using React",
-        link : "https://sarif-cryptoking.netlify.app/",
-        img : "../assets/old/project6.png",
-        des : "this is full stack project using Mern"
-    },
-    {
-        name : "Ticket Management Jira",
-        link : "https://sarif-malik.github.io/TicketManagement-jeera/",
-        img : "../assets/old/project2.png",
-        des : "this is full stack project using Mern"
-    },
-    {
-        name : "Daily Blogs & Journals",
-        link : "https://github.com/SARIF-MALIK/DailyBlogs",
-        img : "../assets/old/project4.png",
+        source_code_link : "https://github.com/SARIF-MALIK/ChatApp",
+        img : {},
         des : "this is full stack project using Mern"
     },
 ]

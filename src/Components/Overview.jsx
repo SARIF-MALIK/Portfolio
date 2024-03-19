@@ -44,7 +44,25 @@ function Overview() {
                 </div>
               </Tilt>
             </div>
+
           ))}
+
+          <div className="flex flex-wrap justify-center items-center">
+            {
+                technologies.map((technology)=>(
+                    <div
+                        key={technology.name}
+                        className="m-4 mt-5 h-[100px] w-[100px] rounded-3xl shadow-2xl border-[1px] border-violet-400 hover:shadow-orange-300"
+
+                    >
+                    <img src={technology.icon} alt={technology.name} className="p-2"/>
+                    <div className="text-violet-600 justify-center flex">
+                        {technology.name}
+                    </div>
+                    </div>
+                ))
+            }
+          </div>
         </div>
       </div>
     </div>
