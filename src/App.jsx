@@ -20,7 +20,7 @@ function App() {
           <div className="relative">
             <About/>
           </div>
-          <div className="flex flex-col relative">
+          <div className="flex flex-col relative bg-white">
             <Overview/>
           </div>
         </div>

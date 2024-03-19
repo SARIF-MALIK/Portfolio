@@ -13,6 +13,7 @@ import node from "../assets/old/node js.png"
 import react from "../assets/old/react.png"
 import sass from "../assets/old/sass.png"
 import web from "../assets/old/web.png"
+import ux from "../assets/old/ux.png"
 
 const services = [
     {
@@ -25,7 +26,7 @@ const services = [
     },
     {
         title : "UI/UX Designer", 
-        icon: ux,
+        icon: ux
     },
 ]
 const technologies = [
