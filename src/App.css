@@ -1,0 +1,12 @@
+.element {
+    animation-name: moving;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    /* animation: 5s linear 1s infinite alternate; */
+}
+@keyframes moving {
+    0%   {transform: translateY(0);}
+    50%  {transform: translateY(-15px);}
+    100% {transform: translateY(0);}
+  }
