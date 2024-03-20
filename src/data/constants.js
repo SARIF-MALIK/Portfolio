@@ -11,6 +11,7 @@ import jeera from "../images/img/project2.png"
 import dailyBlog from "../images/img/project4.png"
 import chatApp from "../images/img/project5.png"
 import cryptoKing from "../images/img/project6.png"
+import guin from "../images/img/project7.png"
 
 export const Bio = {
   name: "Sarif Malik",
@@ -336,11 +337,11 @@ export const projects = [
     description:
       "The soul-bound Aadhaar NFT generator is a platform that leverages blockchain technology to create unique and secure identity tokens. The platform is designed to address the problem of identity theft and fraud by providing a tamper-proof and immutable way of creating identity tokens that are tied to an individual's soul.",
     image:
-      "https://private-user-images.githubusercontent.com/96826281/302014540-63576201-da14-4c64-a1d9-510da651cc9b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTA5Mzg0MTIsIm5iZiI6MTcxMDkzODExMiwicGF0aCI6Ii85NjgyNjI4MS8zMDIwMTQ1NDAtNjM1NzYyMDEtZGExNC00YzY0LWExZDktNTEwZGE2NTFjYzliLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzIwVDEyMzUxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQzZjdiZjQ0ODc1ZjRjOTc5M2JlYjRhMjk2ZmUyZTMyNzAxODA4ODY0NGMxMjM1NzY0NTczMTY1MzA5ZTIyOTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.njiopsJOfr67ITVFPsLD1NXV1PMumGxrKLqbrjzqXdI",
+      guin,
     tags: ["Next js", "React", "Ethereum", "Solidity", "Pinata", "Tailwind CSS", "TypeScript"],
     category: "blockchain",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+    github: "https://github.com/SARIF-MALIK/Block-Certify-",
+    webapp: "https://github.com/SARIF-MALIK/Block-Certify-",
     member: [
       {
         name: "SARIF MALIK",
@@ -380,26 +381,26 @@ export const projects = [
     title: "Ticket Management JEERA",
     date: "Dec 2021 - Apr 2022",
     description:
-      "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
+      "TicketEase is a web app designed with HTML, CSS, and JavaScript to streamline ticket handling. Its intuitive interface enables effortless ticket creation, real-time updates, collaborative resolution, and seamless customization and integration. With a focus on simplicity, efficiency, and security",
     image:
      jeera,
-    tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
+    tags: ["HTML", "CSS", "Javascript"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    github: "https://github.com/SARIF-MALIK/TicketManagement-jeera",
+    webapp: "https://sarif-malik.github.io/TicketManagement-jeera/",
   },
   {
     id: 10,
     title: "Daily Blog Post",
     date: "Jun 2023 - Jul 2023",
     description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
+      "This Project manages & keep track of all the information about opinions, ideas, guidances and new tech blogs",
     image:
       dailyBlog,
-    tags: ["React", "JavaScript", "Axios"],
+    tags: ["React", "JavaScript", "Axios", "Express", "EJS", "Node js", "Bootstrap"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
+    github: "https://github.com/SARIF-MALIK/DailyBlogs",
+    webapp: "https://github.com/SARIF-MALIK/DailyBlogs",
   },
   {
     id: 5,
