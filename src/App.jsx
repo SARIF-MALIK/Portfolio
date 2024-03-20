@@ -4,6 +4,8 @@ import './App.css'
 import Navbar from './Components/Navbar'
 import Overview from './Components/Overview'
 import Projects from './Components/Projects'
+import Contact from './Components/Contact'
+import Footer from './Components/Footer'
 
 
 function App() {
@@ -24,7 +26,10 @@ function App() {
           <div className="flex flex-col relative bg-white">
             <Overview/>
             <Projects/>
+            <Contact/>
+            <Footer/>
           </div>
+          
         </div>
       </div>
 

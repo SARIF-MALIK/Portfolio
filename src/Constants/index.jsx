@@ -15,6 +15,8 @@ import sass from "../assets/old/sass.png"
 import web from "../assets/old/web.png"
 import ux from "../assets/old/ux.png"
 import proj1 from "../assets/old/project1.png"
+import proj2 from "../assets/old/project3.png"
+import proj3 from "../assets/old/project5.png"
 const services = [
     {
         title : "Web Developer", 
@@ -94,21 +96,21 @@ const projects = [
         name : "Go-Food",
         link : "https://github.com/SARIF-MALIK/GoFood-FullStack",
         source_code_link : "https://github.com/SARIF-MALIK/GoFood-FullStack",
-        img : {proj1},
+        image: proj1,
         des : "this is full stack project using Mern"
     },
     {
         name : "Chat Bot using ChatGpt API",
         link : "https://github.com/SARIF-MALIK/Chatbot",
         source_code_link : "https://github.com/SARIF-MALIK/Chatbot",
-        img : {},
+        image : proj2,
         des : "this is full stack project using Mern"
     },
     {
         name : "Chat app using Socket.io",
         link : "https://github.com/SARIF-MALIK/ChatApp",
         source_code_link : "https://github.com/SARIF-MALIK/ChatApp",
-        img : {},
+        image : proj3,
         des : "this is full stack project using Mern"
     },
 ]
